@@ -12,7 +12,7 @@ rule APT10_ANEL_InitRoutine {
 
 rule APT10_redleaves_strings {
       meta:
-        description = "RedLeaves malware"
+        description = "RedLeaves malware_test"
         author = "JPCERT/CC Incident Response Group"
         hash = "ff0b79ed5ca3a5e1a9dabf8e47b15366c1d0783d0396af2cbba8e253020dbb34"
 
